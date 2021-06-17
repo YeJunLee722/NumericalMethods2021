@@ -1,0 +1,22 @@
+﻿  myNM.cpp
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(107,6): warning C4101: 'row' :참조되지 않은 지역 변수입니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(158,6): warning C4101: 'large' :참조되지 않은 지역 변수입니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(486,6): warning C4101: 'flag' :참조되지 않은 지역 변수입니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(641,9): warning C4101: 'h' :참조되지 않은 지역 변수입니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(716,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(730,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(763,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(784,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(816,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(929,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(957,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(959,9): warning C4101: 'y_EU' :참조되지 않은 지역 변수입니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(990,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(1038,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(1102,9): error C2086: 'Matrix h': 재정의
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(1100): message : 'h' 선언을 참조하십시오.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\myNM.cpp(1154,208): error C2112: '-': 포인터 빼기에는 정수 계열 또는 포인터 피연산자가 있어야 합니다.
+  소스.cpp
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\소스.cpp(129,16): error C2440: '초기화 중': 'int'에서 'Matrix'(으)로 변환할 수 없습니다.
+C:\Users\YeJunLee\source\repos\Final_test\Final_test\소스.cpp(129,16): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+  코드를 생성하고 있습니다...
